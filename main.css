@@ -15,6 +15,11 @@ header h1{
     padding-right: 35%;
     color: red;
 }
+header p{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
 header img{
     width: 15%;
 }
